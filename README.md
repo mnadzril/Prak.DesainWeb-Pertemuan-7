@@ -23,6 +23,7 @@ pertemuan-07/
 
 ## Desktop
 <img width="433" height="389" alt="image" src="https://github.com/user-attachments/assets/32a6928d-15e3-4980-8638-ee9741fa6861" />
+
 ## Mobile
 <img width="186" height="349" alt="Screenshot 2026-10-30 145514" src="https://github.com/user-attachments/assets/5610bce4-00c9-460a-a929-40d192ca0b68" />
 
