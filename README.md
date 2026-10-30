@@ -18,11 +18,15 @@ pertemuan-07/
 
 ## Hasil Tampilan
 
+
 ### Contoh 1 - Form Pencarian Mahasiswa
 
-| Desktop | Mobile |
-| :-----: | :----: |
-| ![Desktop](contoh-1/dokumentasi/desktop.png) | ![Mobile](contoh-1/dokumentasi/mobile.png) |
+## Desktop
+
+## Mobile
+<img width="186" height="349" alt="Screenshot 2026-10-30 145514" src="https://github.com/user-attachments/assets/5610bce4-00c9-460a-a929-40d192ca0b68" />
+
+
 
 ### Contoh 2 - Form Pendaftaran Mahasiswa
 
