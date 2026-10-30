@@ -31,9 +31,11 @@ pertemuan-07/
 
 ### Contoh 2 - Form Pendaftaran Mahasiswa
 
-| Desktop | Mobile |
-| :-----: | :----: |
-| ![Desktop](contoh-2/dokumentasi/desktop.png) | ![Mobile](contoh-2/dokumentasi/mobile.png) |
+## Desktop 
+<img width="291" height="405" alt="image" src="https://github.com/user-attachments/assets/19090789-3356-454f-ac1e-d602eb4afb58" />
+
+## Mobile 
+<img width="1179" height="3702" alt="127 0 0 1_2222_contoh%202_index html(iPhone 16)" src="https://github.com/user-attachments/assets/a10c530c-c373-4491-8013-658f90f5804b" />
 
 ## Ringkasan
 
